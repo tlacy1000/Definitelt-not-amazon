@@ -2,13 +2,10 @@
   "name": "02-homework",
   "version": "1.0.0",
   "description": "",
-  "main": "customers.js",
+  "main": "bamazonCustomers.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
-},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tlacy1000/definitely-not-amazon.git"
